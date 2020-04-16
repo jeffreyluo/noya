@@ -1,14 +1,13 @@
 {
-  "name": "@tencent/nuoya",
+  "name": "noya",
   "version": "1.5.5",
-  "description": "nuoya sdk",
+  "description": "noya sdk",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "http://git.code.oa.com/cmweb-buss/nuoya.git"
+    "type": "git"
   },
   "author": "jeffreyluo",
   "license": "MIT",
